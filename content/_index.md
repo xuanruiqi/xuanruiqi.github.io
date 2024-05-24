@@ -2,13 +2,18 @@
 title = "Xuanrui Qi"
 +++
 
-I am Xuanrui Qi (亓璇睿), a third-year PhD student at the [Graduate School of Mathematics, Nagoya University](https://www.math.nagoya-u.ac.jp/).
-I am advised by Professors [Jacques Garrigue](https://www.math.nagoya-u.ac.jp/~garrigue/) and [Lars Hesselholt](https://www.math.nagoya-u.ac.jp/~larsh/).
+I am Xuanrui Qi (亓璇睿), a third-year PhD student at the [Graduate School of Mathematics, Nagoya University](https://www.math.nagoya-u.ac.jp/)
+advised by Professors [Jacques Garrigue](https://www.math.nagoya-u.ac.jp/~garrigue/) and [Lars Hesselholt](https://www.math.nagoya-u.ac.jp/~larsh/).
 Broadly speaking, my research interests are in type theory and topos theory, and particularly in connection to geometry and topology.
 
 I hold two master's degrees: a MS in mathematics from Nagoya University (2021), and a MS in computer science from [Tufts University](https://www.tufts.edu/)
 in the United States (2019). I did my undegraduate studies at, and received my bachelor's degree in computer science and international relations from Tufts University
 in 2018.
+
+I am fortunate to be supported financially by the [Japan Science and Technology Agency](https://www.jst.go.jp/EN/) (JST)'s 
+[SPRING](https://www.jst.go.jp/jisedai/en/index.html) program, through participation in the 
+[Tokai National Higher Education &amp; Research System](https://www.thers.ac.jp/en/index.html) (THERS) "Make New Standards
+Program for Next Generation Researchers".
 
 You can find a copy of my CV [here](/cv.pdf).
 
