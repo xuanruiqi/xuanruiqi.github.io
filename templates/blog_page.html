@@ -1,0 +1,8 @@
+{% extends "page.html" %}
+{% block footer %}
+<p class="text-muted">
+    Tags: {% for tag in page.taxonomies.tags %}<a href="/tags/{{tag | slugify}}">{{ tag }}</a> | {%endfor%}<br>
+    Published on {{ page.date | date(format="%d %B %Y") }}<br>
+    <a href="/blog">Return to blog home</a>
+</p>
+{% endblock %}

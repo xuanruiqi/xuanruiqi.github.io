@@ -1,0 +1,56 @@
+{% extends "_base.html" %}
+{% block title %}{{ section.title }}{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-1 mt-1 pb-1 mb-1 border-bottom">
+    <h2 class="title" id="intro">{{ section.title }}</h2>
+</div>
+<div class="justify-content-between align-items-center pt-3">
+    {{ section.content | safe}}
+</div>
+
+{% for page in paginator.pages %}
+<div class="justify-content-between align-items-center pt-3">
+    <h4 class="title"><a href={{ page.permalink }}>{{ page.title }}</a></h4>
+    <p class="text-muted">{{ page.date | date(format="%d %B %Y") }} ({{ page.reading_time }} minute read)<br>
+        {% if page.taxonomies %}
+        tags: {% for tag in page.taxonomies.tags %}
+        {% if not loop.last %}
+        <a href="/tags/{{tag | slugify}}">{{ tag }}</a>,
+        {% else %}
+        <a href="/tags/{{tag | slugify}}">{{ tag }}</a>
+        {% endif %}
+        {% endfor %}<br>
+        {% endif %}
+    </p>
+</div>
+{% endfor %}
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+        {% if paginator.previous %}
+        <li class="page-item">
+            <a class="page-link" href="#" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+            </a>
+        </li>
+        {% endif %}
+        {% for npage in range(end=paginator.number_pagers) %}
+        {% if loop.index == paginator.current_index %}
+        <li class="page-item active"><a class="page-link" href="#">{{ loop.index }}</a></li>
+        {% else %}
+        <li class="page-item"><a class="page-link" href="#">{{ loop.index }}</a></li>
+        {% endif %}
+        {% endfor %}
+        {% if paginator.next %}
+        <li class="page-item">
+            <a class="page-link" href="#" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+        {% endif %}
+    </ul>
+  </nav>
+  
+
+{% endblock %}

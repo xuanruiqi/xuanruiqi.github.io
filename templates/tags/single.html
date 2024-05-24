@@ -1,0 +1,27 @@
+{% extends "_base.html" %}
+
+{% block title %}{{ term.name | capitalize }}{% endblock %}
+{% block content %}
+<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-1 mt-1 pb-1 mb-1 border-bottom">
+    <h2 class="title" id="intro">Posts related to: {{ term.name }}</h2>
+</div>
+
+{% for page in term.pages %}
+<div class="justify-content-between align-items-center pt-3">
+    <h4 class="title">{{ page.title }}</h4>
+    <p class="text-muted">{{ page.date | date(format="%d %B %Y") }}<br>
+        {% if page.taxonomies %}
+        {% for tag in page.taxonomies.tags %} <a href="/tags/{{tag | slugify}}">{{ tag }}</a> | {% endfor %}<br>
+        {% endif %}
+        <a href={{ page.permalink }}>Read Article</a> ({{ page.reading_time }} minute read)
+    </p>
+</div>
+{% endfor %}
+
+<div class="justify-content-between align-items-center pt-3">
+    <p class="text-muted">
+        Total: {{ term.page_count }} posts<br>
+        <a href="/blog">Return to blog home</a>
+    </p>
+</div>
+{% endblock %}
