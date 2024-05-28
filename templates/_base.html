@@ -43,10 +43,16 @@
         <div class="collapse navbar-collapse" id="spNav">
             <ul class="nav navbar-nav mr-auto">
                 <li class="nav-item nav-item-sp">
-                    <a class="nav-link" href="https://blog.xuanruiqi.com">Blog</a>
+                    <a class="nav-link" href={{ get_url(path="/papers_talks") }}>Papers & Talks</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="assets/cv.pdf">CV</a>
+                <li class="nav-item nav-item-sp">
+                    <a class="nav-link" href={{ get_url(path="/software") }}>Code & Software</a>
+                </li>
+                <li class="nav-item nav-item-sp">
+                    <a class="nav-link" href={{ get_url(path="/blog") }}>Blog</a>
+                </li>
+                <li class="nav-item nav-item-sp">
+                    <a class="nav-link" href={{ get_url(path="/cv.pdf") }}>CV</a>
                 </li>
             </ul>
         </div>
