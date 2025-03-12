@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Xuanrui Qi - research</title>
+    <subtitle>PhD candidate in mathematics, Nagoya University</subtitle>
+    <link href="https://www.xuanruiqi.com/tags/research/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://www.xuanruiqi.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-09-27T00:00:00+00:00</updated>
+    <id>https://www.xuanruiqi.com/tags/research/atom.xml</id>
+    <entry xml:lang="en">
+        <title>My JSPS DC1 application</title>
+        <published>2021-09-27T00:00:00+00:00</published>
+        <updated>2021-09-27T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://www.xuanruiqi.com/blog/dc1/" type="text/html"/>
+        <id>https://www.xuanruiqi.com/blog/dc1/</id>
+        
+        <summary type="html">&lt;p&gt;The results of 2022 JSPS DC1 fellowship applications just came out today. Unsurprisingly, I was not selected for the fellowship, but
+on the bright side, my reviews were much better than what I had expected. I received a classification of &amp;quot;A&amp;quot; (which means I was in
+the top 20% of all unsuccessful applicants), and my T-score (Tスコア) was 3.230, which means that I was ranked approximately
+in the top 35% of all applicants.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
