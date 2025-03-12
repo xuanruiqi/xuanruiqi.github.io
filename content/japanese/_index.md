@@ -4,7 +4,7 @@ title = "QI Xuanrui"
 
 2024年6月現在は、[名古屋大学大学院多元数理科学研究科](https://www.math.nagoya-u.ac.jp/ja/index.html)博士後期課程 (D3) に在籍中．
 
-指導教員はJacques Garrigue先生とLars Hesselholt先生.
+指導教員はJacques Garrigue先生とLars Hesselholt先生．
 
 ### 略歴
 
@@ -21,11 +21,11 @@ title = "QI Xuanrui"
 ### 研究テーマ
 
 * 型理論 (主にHoTT)
-* 無限(∞-)トポス理論を始め、無限圏論
+* 無限(∞-)トポス理論を始め，無限圏論
 * 圏論的論理学
 * 圏論的量子情報学
 * 非可換幾何
 * 定理証明系と数学の形式化
 * 応用位相幾何学
 
-今は様相HoTT (modal HoTT) を用いて、シンセティック幾何学 (LawvereとKockのシンセチック微分幾何学、Hakimのringed topos、Lurieのstructured spacesなど的な) を研究している．
+今は様相HoTT (modal HoTT) を用いて，シンセティック幾何学 (LawvereとKockのシンセチック微分幾何学、Hakimのringed topos、Lurieのstructured spacesなど的な) を研究している．
