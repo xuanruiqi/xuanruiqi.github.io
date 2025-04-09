@@ -2,15 +2,10 @@
 title = "Xuanrui Qi"
 +++
 
-**NEWS (March 2025)💼**: I'm due to graduate in late 2025, and I am currently **looking for a job** with prospective start date of *October 2025*! I
-am open to all kinds of work in software. My expertise is in *programming language design & implementation*, *formal methods*, *runtime systems* and
-*blockchain*, but I am also willing to take up other jobs requiring a strong mathematical background such as optimization and data science.
-For details, please refer to [this page](/blog/job).  
-仕事を探しています．詳しくは[このページ](/blog/job)を読んでくださると幸いです．
-
 I am Xuanrui Qi (亓璇睿), a fourth-year PhD student at the [Graduate School of Mathematics, Nagoya University](https://www.math.nagoya-u.ac.jp/)
 advised by Professors [Jacques Garrigue](https://www.math.nagoya-u.ac.jp/~garrigue/) and [Lars Hesselholt](https://www.math.nagoya-u.ac.jp/~larsh/).
 Broadly speaking, my research interests are in type theory and topos theory, and particularly their application to geometry and topology.
+I am also a software engineer, looking for a [full-time job](/blog/job).
 
 I hold two master's degrees: an MS in mathematics from Nagoya University (2021), and an MS in computer science from [Tufts University](https://www.tufts.edu/)
 in the United States (2019). I did my undegraduate studies at, and received my bachelor's degree in computer science and international relations from Tufts University
