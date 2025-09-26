@@ -1,0 +1,53 @@
+https://keybase.io/xuanruiqi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.xuanruiqi.com
+  * I am xuanruiqi (https://keybase.io/xuanruiqi) on keybase.
+  * I have a public key ASAzwt3y01m_sZALgbohlLos4Ef9iRm4D3xylyaSgjx_fAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120123622cf7818847917a4a66b2c5ed198ccca38b9bcf527532ab526204ce150540a",
+      "host": "keybase.io",
+      "kid": "012033c2ddf2d359bfb1900b81ba2194ba2ce047fd8919b80f7c72972692823c7f7c0a",
+      "uid": "1e9ea36f2bbab28f7bddbcfd8350cc19",
+      "username": "xuanruiqi"
+    },
+    "merkle_root": {
+      "ctime": 1546822598,
+      "hash": "3b7871562620890d846045c95fc660a2df6d3dc095dcd24a90008a9e0109b5bb4e634046ad24c4374f56c1b0a5283e45fe441bfcab611306ac7daa441f5aac65",
+      "hash_meta": "500a294b0e430d876382545c80981f03625d51e304bb6e81bf206069fc976278",
+      "seqno": 4241987
+    },
+    "service": {
+      "entropy": "1bVIsKXHw1/OKQMvZbKRnOvv",
+      "hostname": "www.xuanruiqi.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.0"
+  },
+  "ctime": 1546822682,
+  "expire_in": 504576000,
+  "prev": "4dfc4810f761c867ae31d5f9d128e6175b1c495657ec44a1c42f88febb33790c",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgM8Ld8tNZv7GQC4G6IZS6LOBH/YkZuA98cpcmkoI8f3wKp3BheWxvYWTESpcCGsQgTfxIEPdhyGeuMdX50SjmF1scSVZX7EShxC+I/rszeQzEIOE6Uil66FiRaEZLVpSvK5BiR3sUMOMMwSPzDiUUrU/uAgHCo3NpZ8RA6vztfqDBsqK51ZDCtW2WNJox0HU54+Cp8w0BHCSE1lEUPsw+WRLcytDJTeWWoLN+kPhgJoLN6os+ftHzox5KD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILzXh9uJK4Pc1OiCsYf5+zKTZPMwH3ws0oe1GASEAFl1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xuanruiqi

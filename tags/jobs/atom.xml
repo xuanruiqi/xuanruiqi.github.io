@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Xuanrui Qi - jobs</title>
+    <subtitle>PhD candidate in mathematics, Nagoya University</subtitle>
+    <link href="https://www.xuanruiqi.com/tags/jobs/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://www.xuanruiqi.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-03-13T00:00:00+00:00</updated>
+    <id>https://www.xuanruiqi.com/tags/jobs/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Looking for a job</title>
+        <published>2025-03-13T00:00:00+00:00</published>
+        <updated>2025-03-13T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://www.xuanruiqi.com/blog/job/" type="text/html"/>
+        <id>https://www.xuanruiqi.com/blog/job/</id>
+        
+        <content type="html">&lt;p&gt;I am expecting my PhD in mathematics from Nagoya University by September 2025 (the date might vary, but I am expecting my degree by early 2026).
+I plan to enter industry after graduation, with a tentative start date of &lt;strong&gt;October 2025&lt;&#x2F;strong&gt; (this date is pretty solid, and I am willing to start
+working by then regardless of whether I finish my defense).&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;positions-i-am-looking-for&quot;&gt;Positions I am looking for&lt;&#x2F;h3&gt;
+&lt;p&gt;I am looking for &lt;strong&gt;engineering and&#x2F;or research positions in software and tech&lt;&#x2F;strong&gt;, and I am &lt;strong&gt;open to all kinds of work&lt;&#x2F;strong&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;Currently, my expertise are in the following fields:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;functional programming (particularly OCaml&#x2F;Haskell);&lt;&#x2F;li&gt;
+&lt;li&gt;language design;&lt;&#x2F;li&gt;
+&lt;li&gt;language runtimes &amp;amp; implementation;&lt;&#x2F;li&gt;
+&lt;li&gt;formal methods and verification;&lt;&#x2F;li&gt;
+&lt;li&gt;blockchain technology;&lt;&#x2F;li&gt;
+&lt;li&gt;(to some extent) security.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;But I have a solid background in mathematics and computer science in general, and am open to almost any kind of work, especially areas
+that require mathematical knowledge, such as optimization, algorithm design and data science.&lt;&#x2F;p&gt;
+&lt;p&gt;If you have an opening for a job that requires expertise in one of the aforementioned areas, or any opening for a mathematician
+who is also a good programmer, please don&#x27;t hesitate to contact me at &lt;a href=&quot;mailto:me@xuanruiqi.com&quot;&gt;me@xuanruiqi.com&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Currently I&#x27;m primarily looking for jobs located in Japan, and particularly in Tokyo. I am also open to fully remote jobs if
+I can work from Japan. I am happy to work irregular hours to accommodate my colleagues in different time zones.&lt;&#x2F;p&gt;
+&lt;p&gt;I am not averse to relocation, however, especially within APAC (Asia-Pacific), as long as work visa sponsorship is available.
+If you believe that I might be a good fit for your job, please do contact me regardless of your position.&lt;&#x2F;p&gt;
+&lt;p&gt;Regarding positions requiring relocation to the United States: I would love to have a chat, but please understand that I have no work authorization
+in the U.S. and is unlikely to obtain one due to the policies of the current administration. Also, due to visa issues, it is impossible for me to relocate to
+Taiwan, unfortunately.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
