@@ -11,8 +11,7 @@ I hold two master's degrees: an MS in mathematics from Nagoya University (2021),
 in the United States (2019). I did my undergraduate studies at, and received my bachelor's degree in computer science and international relations from Tufts University
 in 2018.
 
-I am fortunate to be supported financially by the [Japan Science and Technology Agency](https://www.jst.go.jp/EN/) (JST)'s 
-[SPRING](https://www.jst.go.jp/jisedai/en/index.html) program, through participation in the 
+Before entering full-time employment, I was supported financially by the [Japan Science and Technology Agency](https://www.jst.go.jp/EN/) (JST)'s [SPRING](https://www.jst.go.jp/jisedai/en/index.html) program, through participation in the
 [Tokai National Higher Education &amp; Research System](https://www.thers.ac.jp/en/index.html) (THERS) "Make New Standards
 Program for Next Generation Researchers".
 
@@ -20,11 +19,10 @@ You can find a copy of my CV [here](/cv.pdf).
 
 ### Contact Information
 
-* Email: [xuanrui@nagoya-u.jp](mailto:xuanrui@nagoya-u.jp), [me@xuanruiqi.com](mailto:me@xuanruiqi.com) (if you are an recruiter from industry)
-* Mailing address: Graduate School of Mathematics, Nagoya University, Furo-cho, Chikusa-ku, Nagoya, Aichi, Japan 464-8602
-* GitHub: [@xuanruiqi](https://github.com/xuanruiqi)
-* ORCID: [0000-0002-2032-1552](https://orcid.org/0000-0002-2032-1552)
-* PGP public key: 87F900026E06FBC8
+- Email: [xuanrui@nagoya-u.jp](mailto:xuanrui@nagoya-u.jp) (academic), [me@xuanruiqi.com](mailto:me@xuanruiqi.com) (industry)
+- GitHub: [@xuanruiqi](https://github.com/xuanruiqi)
+- ORCID: [0000-0002-2032-1552](https://orcid.org/0000-0002-2032-1552)
+- PGP public key: `87F900026E06FBC8`
 
 ### Research
 
@@ -40,17 +38,22 @@ of Grothendieck's relative point of view. By viewing topoi as abstracted categor
 type theory naturally becomes a language for conveying geometric information, and an essentially functorial (i.e. Grothendieckian) view of geometry
 is obtained without extra effort.
 
-
 I am also interested in various areas related to category theory and/or type theory:
-* abstract approaches to non-commutative geometry;
-* categorical foundations of quantum information;
-* categorical logic in general;
-* the design and implementation of proof assistants;
-* formalized mathematics;
-* applied algebraic topology and in particular persistence theory.
+
+- abstract approaches to non-commutative geometry;
+- categorical foundations of quantum information;
+- categorical logic in general;
+- the design and implementation of proof assistants;
+- formalized mathematics;
+- applied algebraic topology and in particular persistence theory.
 
 Previously I also did research in various areas in theoretical computer science, such as design and implementation of type systems.
 I was involved in the formalization of [OCaml](https://ocaml.org/)'s type system.
+
+### Software Development
+
+As a software engineer, I specialize mainly in blockchain development, but I also work extensively in full-stack web app
+development. You can find some of my open source projects on [GitHub](https://github.com/xuanruiqi).
 
 ### Trivia
 
