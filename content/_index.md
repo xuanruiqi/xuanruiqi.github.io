@@ -11,7 +11,7 @@ I hold two master's degrees: an MS in mathematics from Nagoya University (2021),
 in the United States (2019). I did my undergraduate studies at, and received my bachelor's degree in computer science and international relations from Tufts University
 in 2018.
 
-Before entering full-time employment, I was supported financially by the [Japan Science and Technology Agency](https://www.jst.go.jp/EN/) (JST)'s [SPRING](https://www.jst.go.jp/jisedai/en/index.html) program, through participation in the
+Before entering full-time employment, I was supported financially by the [Japan Science and Technology Agency](https://www.jst.go.jp/EN/) (JST)'s [SPRING](https://www.jst.go.jp/jisedai/spring/) program, through participation in the
 [Tokai National Higher Education &amp; Research System](https://www.thers.ac.jp/en/index.html) (THERS) "Make New Standards
 Program for Next Generation Researchers".
 
