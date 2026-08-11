@@ -5,7 +5,8 @@ title = "Xuanrui Qi"
 I am Xuanrui Qi (亓璇睿). Currently I am working as a software engineer in Tokyo outside of academia, on leave from
 the PhD program at the [Graduate School of Mathematics, Nagoya University](https://www.math.nagoya-u.ac.jp/). I am
 advised by Professors [Jacques Garrigue](https://www.math.nagoya-u.ac.jp/~garrigue/) and [Lars Hesselholt](https://www.math.nagoya-u.ac.jp/~larsh/).
-Broadly speaking, my research interests are in type theory and topos theory, and particularly their application to geometry and topology.
+Broadly speaking, my research interests are in (1) the interaction between type theory and topos theory, and
+(2) the formalization of mathematics.
 
 I hold two master's degrees: an MS in mathematics from Nagoya University (2021), and an MS in computer science from [Tufts University](https://www.tufts.edu/)
 in the United States (2019). I did my undergraduate studies at, and received my bachelor's degree in computer science and international relations from Tufts University
@@ -38,9 +39,14 @@ of Grothendieck's relative point of view. By viewing topoi as abstracted categor
 type theory naturally becomes a language for conveying geometric information, and an essentially functorial (i.e. Grothendieckian) view of geometry
 is obtained without extra effort.
 
-I am also interested in various areas related to category theory and/or type theory:
+I am also interested in the formalization of mathematics in theorem provers, mainly using the [Rocq](https://coq.inria.fr/) proof assistant, but also
+open to using [Lean](https://leanprover.github.io/) and [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php). Particularly, much of synthetic mathematics
+is naturally amenable to formalization in proof assistants, but I am also interested in formalizing classical mathematics, particularly algebraic geometry,
+homological algebra, and algebraic topology.
 
-- abstract approaches to non-commutative geometry;
+Here are some additional topics that I am interested in, broadly related to category theory and/or type theory:
+
+- synthetic approaches to non-commutative geometry;
 - categorical foundations of quantum information;
 - categorical logic in general;
 - the design and implementation of proof assistants;
@@ -52,8 +58,7 @@ I was involved in the formalization of [OCaml](https://ocaml.org/)'s type system
 
 ### Software Development
 
-As a software engineer, I specialize mainly in blockchain development, but I also work extensively in full-stack web app
-development. You can find some of my open source projects on [GitHub](https://github.com/xuanruiqi).
+You can find some of my open source projects on [GitHub](https://github.com/xuanruiqi).
 
 ### Trivia
 
