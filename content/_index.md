@@ -2,10 +2,10 @@
 title = "Xuanrui Qi"
 +++
 
-I am Xuanrui Qi (亓璇睿). Currently I am working as a software engineer in Tokyo outside of academia, on leave from
+I am Xuanrui Qi (亓璇睿). Currently I am working as a software engineer in industry, on leave from
 the PhD program at the [Graduate School of Mathematics, Nagoya University](https://www.math.nagoya-u.ac.jp/). I am
 advised by Professors [Jacques Garrigue](https://www.math.nagoya-u.ac.jp/~garrigue/) and [Lars Hesselholt](https://www.math.nagoya-u.ac.jp/~larsh/).
-Broadly speaking, my research interests are in (1) the interaction between type theory and topos theory, and
+Broadly speaking, my research interests are in (1) the intersection between type theory and topos theory, and
 (2) the formalization of mathematics.
 
 I hold two master's degrees: an MS in mathematics from Nagoya University (2021), and an MS in computer science from [Tufts University](https://www.tufts.edu/)
@@ -31,20 +31,17 @@ My research interests could be broadly categorized as topos-theoretic type theor
 to describe topoi). Currently, I am mostly interested in
 [homotopy type theory](https://homotopytypetheory.org/) (HoTT) and &infin;-topos theory, and in particular the use of
 modal HoTT as a language for developing geometry and topology, most importantly algebraic geometry, internally to an &infin;-topos.
+Topoi can be viewed as abstracted categories of sheaves (or anima), and geometric objects as structured spaces; under this view,
+type theory is exactly a syntactic presentation of geometry from the relative point of view.
 
 My doctoral thesis will be on a synthetic theory of étale sheaves and étale cohomology formalized in modal HoTT.
-
-I view my work as a natural extension of the line of work pioneered by Alexander Grothendieck in the 1970s and 80s, and an internalization
-of Grothendieck's relative point of view. By viewing topoi as abstracted categories of sheaves, and geometric objects as structured sheaves,
-type theory naturally becomes a language for conveying geometric information, and an essentially functorial (i.e. Grothendieckian) view of geometry
-is obtained without extra effort.
 
 I am also interested in the formalization of mathematics in theorem provers, mainly using the [Rocq](https://coq.inria.fr/) proof assistant, but also
 open to using [Lean](https://leanprover.github.io/) and [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php). Particularly, much of synthetic mathematics
 is naturally amenable to formalization in proof assistants, but I am also interested in formalizing classical mathematics, particularly algebraic geometry,
 homological algebra, and algebraic topology.
 
-Here are some additional topics that I am interested in, broadly related to category theory and/or type theory:
+There are some additional topics that I am interested in, broadly related to category theory and/or type theory:
 
 - synthetic approaches to non-commutative geometry;
 - categorical foundations of quantum information;
